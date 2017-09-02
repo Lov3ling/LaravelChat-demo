@@ -1,0 +1,14 @@
+.alert{
+    text-align: center;
+}
+
+body{
+    background-image:url(http://app.dev/bg.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+.btn-100{
+    width:100%;
+}
