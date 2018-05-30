@@ -1,5 +1,3 @@
 # LaravelChat-demo
 
-```
-development Laravel,Vue,websocket and Redis,Node
-```
+**基于Laravel Vue和Redis的在线聊天室Demo**
