@@ -15,6 +15,9 @@ composer update
 ```
 还需要为laravel配置redis连接 
 
+注册需邮箱验证  请在env文件中增加邮箱配置 或自行修改RegisterController中的邮箱验证
+
+
 ### run socket server
 
 启动Weboscket服务器
@@ -26,3 +29,5 @@ node Socket.js
 ```
 php artisan serve
 ```
+
+访问`http://127.0.0.1/chat`预览效果
