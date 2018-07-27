@@ -31,3 +31,5 @@ php artisan serve
 ```
 
 访问`http://127.0.0.1/chat`预览效果
+
+![预览](http://otn8b2ie2.bkt.clouddn.com/chat.png)
