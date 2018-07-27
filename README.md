@@ -25,11 +25,16 @@ composer update
 ```
 node Socket.js
 ```
-启动http服务器
+启动http服务器 
 ```
 php artisan serve
 ```
 
-访问`http://127.0.0.1/chat`预览效果
+访问`http://127.0.0.1:8000/chat` 进入聊天室
+
+
+ 
+ 
+### 效果预览
 
 ![预览](http://otn8b2ie2.bkt.clouddn.com/chat.png)
